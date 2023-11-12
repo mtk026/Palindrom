@@ -1,0 +1,2 @@
+Palindrome, word, number, sentence, or verse that reads the same backward or forward. The term derives from the Greek palin dromo 
+(“running back again”). Examples of word palindromes include “civic,” “madam,” “radar,” and “deified.”
